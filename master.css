@@ -26,7 +26,7 @@ body {
 }
 
 .flipbook .hard {
-  background: #8b5e3c !important;
+  background: #f1592bc2 !important;
   color: #fff;
   font-weight: bold;
   border: none;
@@ -63,7 +63,7 @@ body {
 }
 
 .book-page {
-  background: #f4f1e1; 
+  background:#edeff6 !important; 
   padding: 2rem;
   display: flex;
   flex-direction: column;
@@ -77,7 +77,7 @@ body {
 .book-page h2 {
   width: 80%;
   text-align: center;
-  background:#B06036; 
+  background:#d56c4d; 
   color: white;
   padding: 0.5rem;
   place-self: center;
@@ -87,7 +87,7 @@ body {
 }
 
 .book-page h3 {
-  color: #1B3095;
+  color:#F1592B;
   place-self: center;
   font-size: 1.8rem;
 }
@@ -98,9 +98,9 @@ body {
 }
 
 .definitions {
-  background: #b060368f; 
+  background: #1b309585; 
   padding: 1rem;
-  border-left: 4px solid #B06036;
+  border-left: 4px solid #1b2f95c8;
 }
 
 .tts {
@@ -154,11 +154,11 @@ body {
 }
 
 .page-number {
-  background: #8b5e3c; 
+  background:#5263b4; 
   color: white;
   border-radius: 50%;
-  width: 22px;
-  height: 22px;
+  width: 23px;
+  height: 23px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -241,7 +241,7 @@ body {
   top: 10px;
   left: 10px;
   z-index: 2000;
-  background-color:#ffac7f; 
+  background-color:#f1592bc2; 
   border: none;
   border-radius: 8px;
   padding: 10px 15px;
@@ -252,7 +252,7 @@ body {
 }
 
 #sidebarToggle:hover {
-  background-color: #e98e5d; 
+  background-color: #e1481ac2; 
   transform: scale(1.05);
 }
 
