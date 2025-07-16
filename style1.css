@@ -230,6 +230,27 @@ h4{
   width: 100%;
 }
 
+
+.page-48 {
+  position: relative;
+  width: 100%;
+  height: 100vh; 
+  padding: 40px 60px;
+  background-image: linear-gradient(
+      to right,
+      rgba(244, 241, 225, 0.87),
+      rgba(162, 161, 157, 0)
+    ),
+    url("assets/images/3.jpg");
+  background-size: cover;
+  background-position: center center; 
+  background-repeat: no-repeat;
+  color: #242424;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+
 .page-input {
   display: flex;
   justify-content: center;
