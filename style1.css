@@ -306,7 +306,7 @@ h4{
 .page-input input {
   padding: 0.3rem 0.6rem;
   font-size: 0.9rem;
-  border: 2px solid #8b5e3c;
+  border: 2px solid #03558F;
   border-radius: 8px;
   outline: none;
   width: 45px;
@@ -317,7 +317,7 @@ h4{
 
 .page-input button {
   padding: 0.3rem 0.8rem;
-  background-color: #8b5e3c;
+  background-color: #03558F;
   color: white;
   font-size: 0.9rem;
   border: none;
@@ -328,7 +328,7 @@ h4{
 }
 
 .page-input button:hover {
-  background-color:#8b5e3c;
+  background-color:#03558F;
 }
 
 input[type="number"]::-webkit-inner-spin-button,
@@ -339,7 +339,7 @@ input[type="number"]::-webkit-outer-spin-button {
 
 .page-menu {
   margin-top: 50%;
-  background-color: #fcd69cc4;
+  background-color: #03558F;
   padding: 1.5rem 2rem;
   width: fit-content;
   font-family: "Georgia", serif;
@@ -373,7 +373,7 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 .menu-item:hover span {
-  color: #8b5e3c;
+  color:#03558F;
 }
 
 .book-feature-wrapper {
@@ -440,8 +440,8 @@ input[type="number"]::-webkit-outer-spin-button {
   padding: 1rem;
   background: linear-gradient(
     135deg,
-   #8b5e3c,
-   #6a4f2f
+  #03558F,
+   #03558F
   );
   border: none;
   border-radius: 10px;
@@ -451,7 +451,7 @@ input[type="number"]::-webkit-outer-spin-button {
 
 .nav-btn:hover {
   transform: translateY(-2px);
-  background-color:#6a4f2f;
+  background-color:#03558F;
 }
 
 .feature-column {
@@ -485,7 +485,7 @@ input[type="number"]::-webkit-outer-spin-button {
   flex-direction: column;
   justify-content: space-between;
   padding: 2rem 1.5rem;
-  border-left: 3px solid #6a4f2f;
+  border-left: 3px solid#03558F;
   box-shadow: -5px 0 20px rgba(0, 0, 0, 0.1);
   box-sizing: border-box;
   font-family: "Georgia", serif;
@@ -521,7 +521,7 @@ input[type="number"]::-webkit-outer-spin-button {
 #toggle-tts {
   width: 100%;
   padding: 1rem;
-  background: linear-gradient(135deg, #6a4f2f,#8b5e3c);
+  background: linear-gradient(135deg,#03558F,#03558F);
   color: white;
   border: none;
   border-radius: 12px;
@@ -576,7 +576,7 @@ input[type="number"]::-webkit-outer-spin-button {
 #searchInput {
   padding: 0.8rem;
   font-size: 1rem;
-  border: 2px solid #8b5e3c;
+  border: 2px solid#03558F;
   border-radius: 10px;
   outline: none;
   font-family: "Georgia", serif;
@@ -586,8 +586,8 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 #searchInput:focus {
-  border-color: #8b5e3c;
-  box-shadow: 0 0 10px #6a4f2fe8;
+  border-color:#03558F;
+  box-shadow: 0 0 10px #064a7a;
 }
 
 .search-results-count {
@@ -642,7 +642,7 @@ input[type="number"]::-webkit-outer-spin-button {
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background:#8b5e3c;
+  background:#03558F;
   cursor: pointer;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
@@ -651,7 +651,7 @@ input[type="number"]::-webkit-outer-spin-button {
   min-width: 40px;
   text-align: center;
   font-weight: bold;
-  color:#8b5e3c;
+  color:#03558F;
   background-color: rgba(255, 255, 255, 0.9);
   padding: 0.3rem 0.6rem;
   border-radius: 6px;
@@ -681,7 +681,7 @@ input[type="number"]::-webkit-outer-spin-button {
 .page-input input {
   padding: 0.6rem;
   font-size: 1rem;
-  border: 2px solid#8b5e3c;
+  border: 2px solid#03558F;
   border-radius: 8px;
   outline: none;
   width: 60px;
@@ -692,13 +692,13 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 .page-input input:focus {
-  border-color:#8b5e3c;
-  box-shadow: 0 0 8px #8b5e3c;
+  border-color:#03558F;
+  box-shadow: 0 0 8px #03558F;
 }
 
 .page-input button {
   padding: 0.6rem 1.2rem;
-  background: linear-gradient(135deg,#6a4f2f,#8b5e3c);
+  background: linear-gradient(135deg,#03558F,#03558F);
   color: white;
   font-size: 1rem;
   border: none;
@@ -711,7 +711,7 @@ input[type="number"]::-webkit-outer-spin-button {
 
 .page-input button:hover {
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px #63492a;
+  box-shadow: 0 4px 12px#094570;
 }
 
 /* Disabled button style */
@@ -739,7 +739,7 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 .mobile-icon:hover {
-  color:#6a4f2f;
+  color:#03558F;
   transform: scale(1.1);
 }
 .feature-column::-webkit-scrollbar {
@@ -751,12 +751,12 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 .feature-column::-webkit-scrollbar-thumb {
-  background:#6a4f2f;
+  background:#03558F;
   border-radius: 3px;
 }
 
 .feature-column::-webkit-scrollbar-thumb:hover {
-  background:#6a4f2f;
+  background:#03558F;
 }
 .control-title {
   font-size: 1rem;
@@ -784,7 +784,7 @@ input[type="number"]::-webkit-outer-spin-button {
   font-weight: bold;
   padding: 0.5rem;
   font-size: 1rem;
-  border: 2px solid #6a4f2f;
+  border: 2px solid #03558F;
   border-radius: 8px;
   outline: none;
   font-family: "Georgia", serif;
@@ -827,7 +827,7 @@ input[type="number"]::-webkit-outer-spin-button {
   width: 32px;
   height: 32px;
   border-radius: 10px;
-  background-color: #6a4f2f;
+  background-color: #03558F;
   color: white;
   border: none;
   cursor: pointer;
@@ -835,12 +835,12 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 .control-btn:hover {
-  background-color:#6a4f2f;
+  background-color:#03558F;
   transform: scale(1.1);
 }
 
 .value-display {
-  color: #6a4f2f;
+  color:#03558F;
   font-weight: bold;
 }
 
@@ -887,7 +887,7 @@ input[type="number"]::-webkit-outer-spin-button {
   margin-bottom: 1rem;
   font-size: 1.8rem;
   font-weight: bold;
-    background: linear-gradient(135deg, #8b5e3c, #6a4f2f 100%);
+    background: linear-gradient(135deg, #03558F, #03558F 100%);
           -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -903,7 +903,7 @@ input[type="number"]::-webkit-outer-spin-button {
 .bookmark-buttons button {
   padding: 12px;
   font-size: 16px;
-  background: linear-gradient(135deg, #6a4f2f, #8b5e3c 100%);
+  background: linear-gradient(135deg,#03558F,#03558F 100%);
   color: white;
   border: none;
   border-radius: 12px;
@@ -925,7 +925,7 @@ input[type="number"]::-webkit-outer-spin-button {
 .dropdown-btn {
   padding: 10px;
   font-size: 16px;
-  background-color: #6a4f2f;
+  background-color:#03558F;
   color: white;
   border: none;
   border-radius: 5px;
@@ -935,7 +935,7 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 .dropdown-btn:hover {
-  background-color:#6a4f2f;
+  background-color:#0d4f7f;
 }
 .dropdown-content {
   display: none; 
@@ -962,7 +962,6 @@ input[type="number"]::-webkit-outer-spin-button {
 .dropdown-content li:hover {
   background-color: #ddd;
 }
-/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 .end{
   font-size: 7rem;
 }
@@ -981,10 +980,7 @@ input[type="number"]::-webkit-outer-spin-button {
 
 
 .end-page {
-  /* background: url('/images/oliver_bg_texture.png') no-repeat center center fixed; */
-  /* background-size: cover; */
-  /* min-height: 100vh; */
-  /* padding: 80px 20px 100px 20px; */
+
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -998,7 +994,7 @@ input[type="number"]::-webkit-outer-spin-button {
 .end-title {
   font-size: 72px;
   font-weight: bold;
-  color: #6a4f2f;
+  color:#D56C4D;
   text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
   margin-bottom: 20px;
 }
@@ -1006,7 +1002,7 @@ input[type="number"]::-webkit-outer-spin-button {
 .thank-you {
   font-size: 32px;
   font-weight: 600;
-  color: #b9cfa5;
+  color: #4b8af9;
   margin-bottom: 40px;
 }
 
@@ -1015,7 +1011,7 @@ input[type="number"]::-webkit-outer-spin-button {
   bottom: 20px;
   width: 100%;
   font-size: 16px;
-  color:#6a4f2f;
+  color:#4b8af9;
   text-align: center;
   font-style: italic;
   opacity: 0.85;

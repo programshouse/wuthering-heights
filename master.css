@@ -41,7 +41,7 @@ body {
 }
 
 .flipbook .page {
-  background: #f4f1e1;
+  background: #EDEFF6;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -98,9 +98,9 @@ body {
 }
 
 .definitions {
-  background: #1b309585; 
+  background:#fd815c4f; 
   padding: 1rem;
-  border-left: 4px solid #1b2f95c8;
+  border-left: 4px solid #D56C4D;
 }
 
 .tts {
@@ -121,20 +121,6 @@ body {
   z-index: 1000;
 }
 
-#toggle-tts {
-  background: #6a4f2f; 
-  color: white;
-  border: none;
-  padding: 0.6rem 1.2rem;
-  border-radius: 5px;
-  font-size: 1rem;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-#toggle-tts:hover {
-  background-color: #4d3b28; 
-}
 
 .speaking {
   background-color: #eef5ff;
@@ -242,7 +228,7 @@ body {
   top: 10px;
   left: 10px;
   z-index: 2000;
-  background-color:#f1592bc2; 
+  background-color:#F55A2C; 
   border: none;
   border-radius: 8px;
   padding: 10px 15px;
@@ -253,7 +239,7 @@ body {
 }
 
 #sidebarToggle:hover {
-  background-color: #e1481ac2; 
+  background-color:rgba(203, 67, 25, 0.761);
   transform: scale(1.05);
 }
 
