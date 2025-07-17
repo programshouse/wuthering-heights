@@ -1,4 +1,4 @@
-const totalPages = 100; // Total number of pages in the flipbook
+const totalPages = 98; // Total number of pages in the flipbook
 let currentPage = 1; // Initialize current page
 const flipbook = $(".flipbook");
 const pageInput = document.getElementById("pageInput");
